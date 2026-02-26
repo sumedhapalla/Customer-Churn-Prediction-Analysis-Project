@@ -83,18 +83,21 @@ High Risk (Probability > 0.3)
 Low Risk
 
 🎯 Business Insights
+
 Customers using Fiber Optic service show higher churn probability.
 Electronic Check users are more likely to churn.
 Lower tenure customers have higher churn rates.
 Model detects 76% of potential churners using optimized threshold.
 
 🚀 Business Recommendation
+
 Target High-Risk customers with retention campaigns.
 Offer loyalty discounts for Fiber Optic users.
 Promote automatic payment methods.
 Focus on early engagement for new customers.
 
 👥Team Members & Roles
+
 Member 1 – SQL Developer  [Trived7]
 Data cleaning, query writing, database management
 Member 2 – Python & ML Developer [ArunKusumanchi]
@@ -103,6 +106,7 @@ Member 3 – Power BI Developer [Sumedhapalla] [TEAM LEADER]
 Dashboard design, DAX measures, visualization
 
 🏁 Conclusion 🚀
+
 This project successfully built an end‑to‑end churn prediction system using:
 SQL for Data Cleaning
 Python for Machine Learning
