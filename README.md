@@ -97,14 +97,4 @@ This project successfully built an end‑to‑end churn prediction system using:
 SQL for Data Cleaning
 Python for Machine Learning
 Power BI for Visualization
-The model provides actionable insights and supports data‑driven customer retention strategies.
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info. Your personal Chat
+The model provides actionable insights and supports data‑driven customer retention strategies
