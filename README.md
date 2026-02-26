@@ -4,22 +4,24 @@
 This project focuses on analyzing customer churn behavior and building a machine learning model to predict customers who are likely to churn. The goal is to help businesses identify high‑risk customers and take proactive retention actions.
 
 The project was completed in three phases:
-SQL Data Preparation
-Machine Learning Modeling (Python)
-Visualization & Business Dashboard (Power BI)
+
+1. SQL Data Preparation
+2. Machine Learning Modeling (Python)
+3. Visualization & Business Dashboard (Power BI)
 
 🗂 Dataset Description
 The dataset contains customer demographic details, service usage information, billing details, and churn status.
+
 Key Columns:
-tenure
-monthlycharges
-totalcharges
-contract
-internetservice
-paymentmethod
-seniorcitizen
-churn_new (Target Variable: 1 = Churn, 0 = No Churn)
-predicted_probability (Model Output)
+1.tenure
+2.monthlycharges
+3.totalcharges
+4.contract
+5.internetservice
+6.paymentmethod
+7.seniorcitizen
+8.churn_new (Target Variable: 1 = Churn, 0 = No Churn)
+9.predicted_probability (Model Output)
 
 🛠 Phase 1 – SQL Data Preparation
 Performed:
@@ -92,7 +94,15 @@ Offer loyalty discounts for Fiber Optic users.
 Promote automatic payment methods.
 Focus on early engagement for new customers.
 
-🏁 Conclusion
+👥Team Members & Roles
+Member 1 – SQL Developer  [Trived7]
+Data cleaning, query writing, database management
+Member 2 – Python & ML Developer [ArunKusumanchi]
+EDA, feature engineering, model building
+Member 3 – Power BI Developer [Sumedhapalla] [TEAM LEADER]
+Dashboard design, DAX measures, visualization
+
+🏁 Conclusion 🚀
 This project successfully built an end‑to‑end churn prediction system using:
 SQL for Data Cleaning
 Python for Machine Learning
